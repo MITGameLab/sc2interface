@@ -1,0 +1,38 @@
+**** DISCLAIMER *****
+
+The User Interface currently only runs well in 1920x1080 with a monitor aspect
+ratio of 16:9. Any other resolution will make it look terrible. 
+
+You've been warned!
+
+= Change Log =
+
+= Done for Version 1.6a = 
+* APM Hand Camera - Hotkey Ctrl + Shift + A
+* Tech Upgrades above Info panel
+* Replay Features Added - Hotkey Shift + O
+* Moved Unit WireFrame buff (e.g. Chrono Boost) 
+* Added in Multi Game Score Feature - Hotkey Shift + S
+** Best of 5 - Hotkey Shift + 5
+** Best of 7 - Hotkey Shift + 7
+** Add Score Left Player Ctrl + 1/2/3/4
+** Add Score Right Player Shift + 1/2/3/4
+** Developed Spells/Skills frame removed.
+
+= Done for Version 1.3 = 
+* Upgrades are above the Info Panel
+* Info Panel is now aligned at the bottom to the MiniMap
+* Rank/Kills text now centered near unit (should fix widow-mine bug, but have not confirmed)
+
+= Done for Version 1.2 =
+* Map and LeaderBoard names are White.
+* UnitFrame Size in the Infopane is now larger and fits in the box better (even with hp/shield/energy text underneath)
+* Name is now inside the Info Box
+* Progress Bar Glitch for MULE's is fixed.
+* Structures that can build two units at a time no longer overlaps the side of the infopanel.
+* Buildings that were "Researching" are now no longer cutting off the 'g" at the end
+* Supply Text on the right hand side no longer uses '...' for values over 100/100
+* Map Names can go up to 20 characters long now without issue.
+* Developed Spells/Skills are now shown. Can be hidden with the hotkey CTRL + Shift + A.
+
+Contact dar@turtle-entertainment.de for Questions/Comments or to Send Praise/Redbull/Equipment
