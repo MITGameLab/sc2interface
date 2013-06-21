@@ -7,6 +7,12 @@ You've been warned!
 
 = Change Log =
 
+= Done for Version 1.7a =
+* Reduced Leaderboard Size
+* Reduced Margins on right and left hand sides
+* Modified map name / timer font size and style
+* Seperated Background from Map font for easier editing
+
 = Done for Version 1.6a = 
 * APM Hand Camera - Hotkey Ctrl + Shift + A
 * Tech Upgrades above Info panel
