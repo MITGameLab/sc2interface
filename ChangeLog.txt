@@ -1,11 +1,7 @@
-**** DISCLAIMER *****
-
-The User Interface currently only runs well in 1920x1080 with a monitor aspect
-ratio of 16:9. Any other resolution will make it look terrible. 
-
-You've been warned!
-
 = Change Log =
+
+= Done for Version 1.7c =
+* Fixed bottom-right anchoring for Info Panel for resolutions that are not 1920x1080
 
 = Done for Version 1.7b =
 * Fixed missing background from Map name/Game time background
